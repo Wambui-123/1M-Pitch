@@ -1,0 +1,101 @@
+body{
+    background-color: #ca1606;
+
+}
+
+.nav-link {
+    color: black !important;
+}
+.nav-link:hover {
+    background-color: #68ca06;
+    background: #28d128;
+    box-shadow: inset 9.91px 9.91px 15px #E2E3E4, inset -9.91px -9.91px 15px #e3e4e9;
+}
+.login,.signup {
+    border: 1px solid black;
+}
+.card {
+    border: 1px solid rgb(93, 235, 21);
+    margin-top: 5px;
+    background-color: #68ca06;
+    
+}
+
+.card-body {
+    padding: 1rem;
+    background-color: #68ca06;
+
+
+}
+.card-text{
+    color: rgb(110, 217, 28);
+}
+body{
+    background-image: url("pexels-photo-4397920.jpeg");
+    font-style: italic;
+    font-size: 2.0rem;
+}
+.homeButtons {
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+}
+
+.btn {
+    margin-left: 0.3em;
+    font-size: smaller;
+    margin-top: 1em;
+}
+
+.welcome-section {
+    padding: 1em;
+    border-radius: 1em;
+    background: #ebebeb;
+    box-shadow:  20px 20px 60px #c8c8c8,
+             -20px -20px 60px #ffffff;
+}
+form {
+    border: 1px solid blue;
+    background-color: aliceblue;
+}
+.form-text{
+    color: blue;
+}
+form {
+    border: 1px solid black;
+    background-color: bisque;
+}
+.pitch {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid red;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.votes {
+    display: flex;
+}
+
+.pitchCard {
+    border-radius: 0.5em;
+}
+
+.downvote {
+    margin-left: 0.3em;
+}
+
+
+@media screen and (min-width:800px){
+    #message{
+        position: absolute;
+        top: 150px;
+        left: 400px;
+    }
+    
+}
