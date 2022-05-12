@@ -3,10 +3,11 @@
 #### Yvonne Muthui
 ## Description
 #### A flask application that requires users to create an account and login before submiting a pitch or viewing other pitches posted by other users. You can also leave comments and vote on them as you wish.
+## [Demo](https://pitchminute123456.herokuapp.com/login?next=%2F) click to view
 ## Installation / Setup instruction
 ## Cloning
 * On your terminal, run the following commands:
-* $ git clone """""
+* $ git clone git@github.com:Wambui-123/1M-Pitch.git
 * $ cd One-Minute-Pitch
 * Create a virtual environment $ pv -m venv --without-pip virtual
 * Activate the virtual environment $ source virtual/bin/activate
