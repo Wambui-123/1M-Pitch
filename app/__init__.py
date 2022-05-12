@@ -45,7 +45,6 @@ def create_app(config_name):  # a method to instantiate our App
 
     return app
 
-
 # create our db
 def create_database(app):
     if not path.exists('app/' + DB_NAME):
