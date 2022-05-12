@@ -1,42 +1,31 @@
-body{
-    background-color: #ca1606;
-
-}
 .navbar{
-    height: 10px;
+    width: 100%;
 }
 .nav-link {
     color: black !important;
 }
 .nav-link:hover {
-    background-color: #68ca06;
-    background: #28d128;
     box-shadow: inset 9.91px 9.91px 15px #E2E3E4, inset -9.91px -9.91px 15px #e3e4e9;
 }
 .login,.signup {
     border: 1px solid black;
 }
 .card {
-    border: 1px solid rgb(93, 235, 21);
+    background-color: #EEB0B0;
+    border: 1px solid #EEB0B0;
     margin-top: 5px;
-    background-color: #68ca06;
-    
 }
 
 .card-body {
     padding: 1rem;
-    background-color: #68ca06;
-
-
 }
 .card-text{
-    color: rgb(110, 217, 28);
+    color: #7D1E6A;
 }
 body{
-    background-image: url("brick.jpg");
-    height: 100%;
     font-style: italic;
     font-size: 2.0rem;
+    background-image: url('static/css/brick.jpg')
 }
 .homeButtons {
     display: flex;
@@ -66,13 +55,15 @@ form {
 }
 form {
     border: 1px solid black;
-    background-color: bisque;
+    background-image: url('static/css/brick.jpg')
+
 }
 .pitch {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border: 1px solid red;
+    border: 1px solid #7D1E6A;
+    background-color: #EEB0B0;
 }
 
 .footer {

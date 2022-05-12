@@ -1,7 +1,9 @@
 form {
     border: 1px solid black;
-    background-color: #7D1E6A;
+    background-image: url(static/css/brick.jpg);
+    background-color: #BDE6F1
+
 }
-body{
-    background-image: url('brick.jpg')
+form.login{
+    margin-top: 0em;
 }
