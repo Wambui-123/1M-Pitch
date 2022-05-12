@@ -26,3 +26,15 @@
 * Commit your changes (git commit -am 'Improve feature')
 * Push to the branch (git push origin improve-feature)
 * Create a Pull Request
+## Technology Used
+* python3.8
+* flask
+* Sqlite
+## Known Bugs
+#### 
+If you find a bug on the website or its not working as expected, please feel free so send me an email @yvonnewambui28@gmail.com
+## Contact Information
+* For any inqueries feel free to write to me yvonnewambui28@gmail.com
+## Licence
+* MIT License
+* Copyright (c) 2022 Yvonne Muthui
