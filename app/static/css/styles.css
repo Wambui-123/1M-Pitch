@@ -56,7 +56,6 @@ form {
 form {
     border: 1px solid black;
     background-image: url('static/css/brick.jpg')
-
 }
 .pitch {
     display: flex;
