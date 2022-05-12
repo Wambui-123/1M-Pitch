@@ -2,7 +2,9 @@ body{
     background-color: #ca1606;
 
 }
-
+.navbar{
+    height: 10px;
+}
 .nav-link {
     color: black !important;
 }
