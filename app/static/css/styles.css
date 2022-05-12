@@ -31,7 +31,8 @@ body{
     color: rgb(110, 217, 28);
 }
 body{
-    background-image: url("pexels-photo-4397920.jpeg");
+    background-image: url("brick.jpg");
+    height: 100%;
     font-style: italic;
     font-size: 2.0rem;
 }

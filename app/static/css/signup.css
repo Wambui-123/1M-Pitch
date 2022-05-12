@@ -1,10 +1,16 @@
 form {
     border: 1px solid #7D1E6A;
-    background-color: rgb(18, 130, 227);
+    /* background-color: rgb(18, 130, 227); */
+    /* background-image: url("brick.jpg"); */
+    background-image: url("app/static/css/brick.jpg");
+ 	height: 800px;
+
+
+  
 }
 .form-text{
     color: #7D1E6A;
 }
-/* body{ 
-    background-image:url('/app/static/css/brick.jpg'); 
-}  */
+body{
+    background-image: url("app/static/css/brick.jpg");
+}

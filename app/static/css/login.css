@@ -2,6 +2,6 @@ form {
     border: 1px solid black;
     background-color: #7D1E6A;
 }
-/* body{
-    background-image:url('/app/static/css/brick.jpg'); 
-} */
+body{
+    background-image: url('static/img/home.jpg')
+}
