@@ -6,7 +6,7 @@
 ## Installation / Setup instruction
 ## Cloning
 * On your terminal, run the following commands:
-* $ git clone https://github.com/Kisavi/One-Minute-Pitch.git
+* $ git clone """""
 * $ cd One-Minute-Pitch
 * Create a virtual environment $ pv -m venv --without-pip virtual
 * Activate the virtual environment $ source virtual/bin/activate
