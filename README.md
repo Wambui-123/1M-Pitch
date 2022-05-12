@@ -17,3 +17,12 @@
 * ```python(version) manage.py server```
 * Run chmod a+x start.sh  
 * Run the application $ ./start.sh
+## Development
+#### Want to make a contribution to enhance an existing module or fix a bug? Great!
+* Fork the repo
+* Create a new branch (git checkout -b improve-feature)
+* Make the appropriate changes in the files
+* Add changes to reflect the changes made
+* Commit your changes (git commit -am 'Improve feature')
+* Push to the branch (git push origin improve-feature)
+* Create a Pull Request
